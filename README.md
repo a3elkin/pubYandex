@@ -1,2 +1,1 @@
-# pubYandex
-public scripts for Yandex
+Use Python 3.6
